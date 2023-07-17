@@ -16,5 +16,6 @@
 | Soyabean  |     01        | 'Soybean___healthy' |
 | Squash    |     01        | 'Squash___Powdery_mildew' |
 | Strawberry|     02        | 'Strawberry___Leaf_scorch','Strawberry___healthy' |
-| Tomato    |     10        | Tomato: 'Bacterial_spot','Early_blight', 'Late_blight', 'Leaf_Mold', 'Septoria_leaf_spot', 'Spider_mites','Target_Spot', 
-                             'Yellow_Leaf_Curl_Virus', 'Mosaic_virus', 'Healthy' 
+| Tomato    |     10        | Tomato: 'Bacterial_spot','Early_blight', 'Late_blight', 'Leaf_Mold', 'Septoria_leaf_spot', 'Spider_mites','Target_Spot', 'Yellow_Leaf_Curl_Virus', 'Mosaic_virus', 'Healthy' 
+
+                             
