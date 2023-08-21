@@ -52,4 +52,6 @@ pip install -r requirements.txt
 
 https://github.com/tayyab298/Plant-disease-detection/assets/77976615/781bb7c8-0b27-42ce-85dd-3694efdf2f47
 
+download model from here: https://drive.google.com/file/d/1MgCbVuILnj95nT-uxHHcBKeurVv9t0DQ/view
+
 
